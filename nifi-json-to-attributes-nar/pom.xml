@@ -19,11 +19,11 @@
     <parent>
         <groupId>com.nineteen04labs</groupId>
         <artifactId>nifi-json-to-attributes-bundle</artifactId>
-        <version>18.9.1</version>
+        <version>18.9.2</version>
     </parent>
 
     <artifactId>nifi-json-to-attributes-nar</artifactId>
-    <version>18.9.1</version>
+    <version>18.9.2</version>
     <packaging>nar</packaging>
     <properties>
         <maven.javadoc.skip>true</maven.javadoc.skip>
@@ -34,7 +34,7 @@
         <dependency>
             <groupId>com.nineteen04labs</groupId>
             <artifactId>nifi-json-to-attributes-processors</artifactId>
-            <version>18.9.1</version>
+            <version>18.9.2</version>
         </dependency>
     </dependencies>
 
